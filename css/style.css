@@ -127,6 +127,6 @@ a {
   background-color: #C7C7C7;
   border-color: #C7C7C7;
 }
-a .btn {
-    color: white;
+.btn a:visited {
+    color: white !important ;
 }
