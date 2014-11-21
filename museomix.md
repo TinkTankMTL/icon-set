@@ -1,6 +1,6 @@
 ---
 layout: iconset
-title: Museomix icons
+title: Museomix
 permalink: /museomix/
 category: iconset
 tag: museomix
