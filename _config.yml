@@ -13,227 +13,339 @@ github_username:  tinktankMTL
 # Build settings
 markdown: kramdown
 
+#contributors
+contributors:
+- name: Arthur Schmitt
+  link: http://arthurschmitt.com/
+- name: Mathias Rabiot
+  link: http://www.grapheine.com/
+
 #icons 
 icons: 
 - title: backpack back
   png: backpackback 
   tags: 
+    - school 
 - title: backpack front
   png: backpackfront 
   tags: 
+    - school
 - title: cat
   png: cat
   tags: 
+    - animals
+    - nature
 - title: paint roller
   png: paintroller
   tags: 
+   - tools
 - title: planet
   png: planet
   tags: 
+   - science
 - title: rose
   png: rose
   tags: 
+    - nature
 - title: suitcase
   png: suitcase
   tags: 
+   - travel
 - title: cocktail 
   png: cocktail
   tags:
+   - food
 - title: diamond
   png: diamond
-  tags:
+  tags: 
+   - random
 - title: fly
   png: fly
   tags:
+   - random
+   - animals
+   - nature
 - title: hand
   png: hand
   tags:
+   - hand
+   - human
+   - interaction
 - title: back hand 
   png: hand2
   tags:
+   - hand
+   - human
+   - interaction
 - title: pointed finger
   png: handpointedfinger
   tags:
+   - hand
+   - human
+   - interaction
 - title: rocket
   png: rocket
   tags:
+   - science
 - title: amphora
   png: amphora
   tags:
+   - museum
+   - history
 - title: glasses
   png: glasses
   tags:
 - title: handicap
   png: handicap
   tags:
+   - museum
 - title: radio
   png: radio
   tags:
+   - objects
 - title: signs
   png: signs
   tags:
+   - museum
 - title: stroller
   png: stroller
   tags:
+   - museum
+   - random
 - title: ticket
   png: ticket
   tags:
+   - museum
+   - random
 - title: cake
   png: cake
   tags:
+   - food
 - title: glue
   png: glue
   tags:
+   - tools
 - title: icecream
   png: icecream
   tags:
+   - summer
+   - food
 - title: measuring tape
   png: measuringtape
   tags:
+   - tools
 - title: printer
   png: printer
   tags:
+   - devices
 - title: tape
   png: tape
   tags:
+   - tools
 - title: tipi
   png: tipi
   tags:
 - title: usb
   png: usb
   tags:
+   - devices
 - title: bird
   png: bird
   tags:
+   - nature
+   - animals
 - title: calendar
   png: calendar
   tags:
+   - organization
 - title: coffee
   png: coffee
   tags:
+   - food
 - title: garage
   png: garage
   tags:
+   - places
+   - random
 - title: newspaper
   png: newspaper
   tags:
+   - random
 - title: paint
   png: paint
   tags:
+   - tools
 - title: parcel
   png: parcel
   tags:
-- title: plane
+   - organization
+- title: paper airplane
   png: plane
   tags:
+   - random
 - title: wood
   png: wood
-  tags:
+  tags: 
+   - materials
+   - tools
 - title: bell
   png: bell
   tags:
+   - organization
 - title: browser
   png: browser
   tags:
+   - devices
 - title: disguise
   png: disguise
   tags:
+   - random
 - title: eye
   png: eye
   tags:
 - title: laptop
   png: laptop
   tags:
+   - devices
 - title: microphone
   png: microphone
   tags:
+   - devices
 - title: music
   png: music
   tags:
 - title: raspberryPi
   png: raspi
   tags:
+   - tools
+   - fablab
 - title: 3D printer
   png: 3Dprinter
   tags:
+   - tools
+   - fablab
 - title: art
   png: art
   tags:
+   - museum
 - title: bike
   png: bike
   tags:
+   - random
+   - travel
+   - city
 - title: camera
   png: camera
   tags:
-- title: controller
+   - devices
+- title: game controller
   png: controller
   tags:
+   - devices
 - title: mouse
   png: mouse
   tags:
+   - devices
 - title: mug
   png: mug
   tags:
+   - food
 - title: wallet
   png: wallet
   tags:
-- title: cone
+   - organization
+- title: traffic cone
   png: cone
   tags:
+   - city
+   - random
 - title: dinosaur
   png: dinosaur
   tags:
+   - animals
+   - random
+   - science
 - title: heart
   png: heart
   tags:
+   - basic
 - title: medal
   png: medal
   tags:
+   - basic
+   - museomix
 - title: paper clip
   png: paperclip
   tags:
+   - tools
+   - office
+   - museomix
 - title: smartphone
   png: smartphone
   tags:
+   - devices
 - title: star
   png: star
   tags:
+   - basic
 - title: ufo
   png: ufo
   tags:
+   - science
+   - random
+   - museomix
 - title: book
   png: book
   tags:
+   - basic
+   - science
+   - museomix
 - title: map
   png: map
   tags:
+   - basic
+   - museum
 - title: museum
   png: museum
   tags:
+   - museum
 - title: oil
   png: oil
   tags:
+   - museomix
+   - tools
 - title: pencil
   png: pencil
   tags:
+   - museomix
+   - tools
 - title: pin
   png: pin
   tags:
+   - city
 - title: share
   png: share
   tags:
+   - museomix
+   - basic
 - title: ux
   png: ux
   tags:
+   - museomix
+   - random
 - title: code
   png: code
   tags:
+   - museomix
 - title: speech
   png: speech
-  tags:
+  tags: 
+   - museomix
+   - tools
 - title: wrench
   png: wrench
   tags:
+   - museomix
 
 
 

@@ -6,6 +6,15 @@ layout: default
 
   <div class="row">
     <div class="col-md-12">
+      <h1>The icons of Museomix</h1>
+      {% for icon in site.icons %}
+        {% if icon.tags contains 'museomix' %}
+          {% include icon-item.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="clearfix"></div>
+    <div class="col-md-12">
       <h1 class="page-heading">Icons</h1>
     </div>
     {% for icon in site.icons %}

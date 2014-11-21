@@ -6,6 +6,12 @@ h4 {
 h3 {
     font-size: 18px;
 }
+.mt {
+    margin-top: 20px; 
+}
+.mb {
+    margin-bottom: 20px;
+}
 .navbar-default {
     background-color: #662D91;
     border-color: transparent;
