@@ -10,10 +10,6 @@ h4 {
     font-weight: 800;
     text-transform: capitalize;
 }
-hr {
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
 .mt {
     margin-top: 20px; 
 }
@@ -67,6 +63,10 @@ a {
 }
 .cto .fa {
     color: #c7c7c7;
+}
+.cto hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .dl-info {
     position: absolute;
