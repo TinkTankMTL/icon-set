@@ -8,8 +8,11 @@ layout: default
   </header>
 
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
             {{ content }}
+        </div>
+        <div class="col-md-4">
+            <a href="{{ page.imagelink }}"><img src="{{site.baseurl}}/assets/img/{{page.image}}" class="img-responsive"></a>
         </div>
         <div class="col-md-12">
             {% if page.tag %}
