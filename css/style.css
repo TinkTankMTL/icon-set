@@ -40,6 +40,13 @@ h4 {
 .navbar-default .navbar-nav>li>a:hover {
     color:#c7c7c7;
 }
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    color: white;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>li>a:visited {
+    color: white;
+}
 a {
     transition: background-color .4s linear, color .4s linear;
     transition-property: background-color, color;
