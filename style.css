@@ -3,6 +3,9 @@ h4 {
     font-weight: 800;
     text-transform: capitalize;
 }
+h3 {
+    font-size: 18px;
+}
 .navbar-default {
     background-color: #662D91;
     border-color: transparent;
@@ -59,4 +62,8 @@ a {
 }
 .dl-info:hover {
     opacity: 1;
+}
+.hline-w {
+    border-bottom: 2px solid white;
+    margin-bottom: 8px;
 }

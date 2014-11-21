@@ -8,15 +8,19 @@
       </div>
 
       <div class="col-md-3">
+        <h3>Links</h3>
+        <div class="hline-w"></div>
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="">Contribute</a></li>
           <li> <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></li>
-
         </ul>
+        <a href="https://github.com/TinkTankMTL/icon-set"><i class="fa fa-github fa-2x"></i></a>
       </div>
 
       <div class="col-md-3">
+        <h3>Credits and licence</h3>
+        <div class="hline-w"></div>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -36,6 +40,8 @@
       </div>
 
       <div class="col-md-3">
+        <h3>What is this?</h3>
+        <div class="hline-w"></div>
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
