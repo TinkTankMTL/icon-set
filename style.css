@@ -37,12 +37,6 @@ a {
 .page-content {
     margin-top: 50px;
 }
-.footer {
-    background-color: #662D91;
-    color:white;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
 .dl-info {
     position: absolute;
     top: 0px;
@@ -66,4 +60,17 @@ a {
 .hline-w {
     border-bottom: 2px solid white;
     margin-bottom: 8px;
+}
+.footer {
+    background-color: #662D91;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.footer a {
+    color: #428bca;
+}
+.footer .fa {
+    margin-right: 10px;
+    color: white;
 }
