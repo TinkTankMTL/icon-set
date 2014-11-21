@@ -1,16 +1,22 @@
 
-h4 {
-    font-weight: 800;
-    text-transform: capitalize;
+h1 {
+    font-size: 24px;
 }
 h3 {
     font-size: 18px;
+}
+h4 {
+    font-weight: 800;
+    text-transform: capitalize;
 }
 .mt {
     margin-top: 20px; 
 }
 .mb {
     margin-bottom: 20px;
+}
+.center {
+    text-align: center;
 }
 .navbar-default {
     background-color: #662D91;
@@ -50,9 +56,9 @@ a {
 
 }
 .cto p {
-    padding-top: 20px;
     padding-bottom: 20px;
     font-size: 16px;
+    font-weight: 400;
 }
 .cto .fa {
     color: #c7c7c7;
