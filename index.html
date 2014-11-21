@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="page-heading">Icons</h1>
+    </div>
+    {% for icon in site.icons %}
+      <div class="col-md-2">
+        <img src="png/icon__{{icon.png}}.png" class="img-responsive">
+      </div>
+    {% endfor %}
+  </div>
+
+</div>

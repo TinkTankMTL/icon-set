@@ -1,0 +1,38 @@
+
+.navbar-default {
+    background-color: #662D91;
+    border-color: transparent;
+}
+.navbar {
+    min-height: 70px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-brand {
+    color:white;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color:#c7c7c7;
+}
+a {
+    transition: background-color .4s linear, color .4s linear;
+    transition-property: background-color, color;
+    transition-duration: 0.4s, 0.4s;
+    transition-timing-function: linear, linear;
+    transition-delay: initial, initial;
+}
+.page-content {
+    margin-top: 50px;
+}
+.footer {
+    background-color: #662D91;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
