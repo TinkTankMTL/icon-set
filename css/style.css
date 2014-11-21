@@ -64,6 +64,7 @@ a {
     text-align: center;
     width: 100%;
     padding: 20px;
+    cursor: default;
 }
 .cto p {
     padding-bottom: 20px;
@@ -125,4 +126,7 @@ a {
   color: #fff;
   background-color: #C7C7C7;
   border-color: #C7C7C7;
+}
+a .btn {
+    color: white;
 }
