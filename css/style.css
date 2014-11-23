@@ -130,6 +130,6 @@ a {
   background-color: #C7C7C7;
   border-color: #C7C7C7;
 }
-a:visited {
+.btn-theme a:visited {
     color: white !important ;
 }
