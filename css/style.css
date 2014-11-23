@@ -44,6 +44,9 @@ h4 {
     color: white;
     background-color: transparent;
 }
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: white !important; 
+}
 .navbar-default .navbar-nav>li>a {
     color: white;
 }
