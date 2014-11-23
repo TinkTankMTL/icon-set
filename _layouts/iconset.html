@@ -24,7 +24,8 @@ layout: default
                    {% endif %}
                 {% endfor %}
             {% else %}
-                {% for icon in site.icons %}
+                {% assign sorted_icons = (site.icons | sort: 'title') %}
+                {% for icon in sorted_icons %}
                     {% include icon-item.html %}
                 {% endfor %}
             {% endif %}
