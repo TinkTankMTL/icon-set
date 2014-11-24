@@ -362,8 +362,118 @@ icons:
   png: wrench
   tags:
    - museomix
-
-
+- title: peace
+  png: peacesign
+  tags: 
+  - hand
+- title: desk lamp 
+  png: desklamp
+  tags: 
+  - work
+- title: drill 
+  png: drill 
+  tags: 
+  - tools
+- title: lego brick
+  png: lego
+  tags: 
+  - playing
+- title: apron
+  png: apron
+  tags: 
+  - food
+- title: barbecue 
+  png: bbq
+  tags: 
+  - food
+- title: LEDs 
+  png: leds
+  tags: 
+  - tools
+  - fablab 
+- title: hammer
+  png: hammer
+  tags: 
+  - tools
+- title: claw hammer
+  png: hammer2
+  tags: 
+  - tools
+- title: hacksaw
+  png: handsaw
+  tags: 
+  - tools
+- title: wood saw
+  png: woodsaw
+  tags: 
+  - tools
+- title: spade
+  png: spade
+  tags: 
+  - tools
+- title: ruler
+  png: ruler
+  tags: 
+  - tools
+- title: playing cards
+  png: cards
+  tags: 
+  - playing
+- title: large paintbrush
+  png: lgpaintbrush
+  tags: 
+  - tools
+- title: small paintbrush
+  png: smpaintbrush
+  tags: 
+  - tools
+- title: nuts and bolts
+  png: nutsandbolts
+  tags: 
+  - tools
+- title: circular saw
+  png: circularsaw
+  tags: 
+  - tools
+- title: scissors
+  png: scissors
+  tags: 
+  - tools
+- title: speaker
+  png: speaker
+  tags: 
+  - music
+- title: owl
+  png: owl
+  tags: 
+  - nature
+  - animals
+- title: lego head
+  png: legoface
+  tags: 
+  - playing
+- title: r2d2
+  png: r2d2
+  tags: 
+  - random
+  - robot
+  - starwars
+- title: sewing machine
+  png: sewingmachine
+  tags: 
+  - tools
+- title: iron
+  png: iron
+  tags: 
+  - tools
+- title: trumpet
+  png: trumpet
+  tags: 
+  - music
+- title: turntable
+  png: turntable
+  tags: 
+  - music
 
 
 
