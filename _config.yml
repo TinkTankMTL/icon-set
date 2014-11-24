@@ -387,6 +387,7 @@ icons:
   tags: 
   - food
   - summer
+  - random
 - title: LEDs 
   png: leds
   tags: 
@@ -400,6 +401,7 @@ icons:
   png: hammer2
   tags: 
   - tools
+  - random
 - title: hacksaw
   png: handsaw
   tags: 
@@ -420,6 +422,7 @@ icons:
   png: cards
   tags: 
   - playing
+  - random
 - title: large paintbrush
   png: lgpaintbrush
   tags: 
@@ -467,10 +470,12 @@ icons:
   png: iron
   tags: 
   - tools
+  - random 
 - title: trumpet
   png: trumpet
   tags: 
   - music
+  - random
 - title: turntable
   png: turntable
   tags: 
