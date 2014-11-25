@@ -61,20 +61,29 @@ a {
     transition-delay: initial, initial;
 }
 .page-content {
-    margin-top: 50px;
+    margin-top: 40px;
 }
-.cto {
+.welcome {
+    background-color: #662D91; 
+    margin-top: 70px;
+    border-top: 1px solid #512473;
+    color: white; 
+}
+.left-desc {
+    padding-top: 40px;
+}
+.cta {
     text-align: center;
     width: 100%;
     padding: 20px;
     cursor: default;
 }
-.cto p {
+.cta p {
     padding-bottom: 20px;
     font-size: 16px;
     font-weight: 400;
 }
-.cto .fa {
+.cta .fa {
     color: #c7c7c7;
     margin-bottom: 20px;
 }

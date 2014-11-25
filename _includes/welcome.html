@@ -1,0 +1,28 @@
+<div class="welcome">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-sm-8 left-desc">
+        <h2>{{site.description}}</h2>
+      </div>
+
+      <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 col-xs-offset-3">
+        <div id="carousel-welcome" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner" role="listbox">
+            {% for item in site.carousel.first %}
+              <div class="item active"> 
+                <img src="assets/{{ item }}.png" alt="">
+              </div>
+            {% endfor %}
+            {% for item in site.carousel offset:1 %}
+              <div class="item"> 
+                <img src="assets/{{ item }}.png" alt="">
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div> <!-- end col -->
+
+    </div> <!-- end row -->
+  </div>
+</div> 
