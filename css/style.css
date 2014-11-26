@@ -1,4 +1,10 @@
 
+body {
+    background-color: #512473;
+}
+.page-content {
+    background-color: white;
+}
 h1 {
     font-size: 24px;
     margin-top: 40px;
@@ -62,10 +68,13 @@ a {
     transition-delay: initial, initial;
 }
 .page-content {
-    margin-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .welcome {
     background-color: #662D91; 
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-top: 70px;
     border-top: 1px solid #512473;
     color: white; 
