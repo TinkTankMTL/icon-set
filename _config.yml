@@ -283,7 +283,6 @@ icons:
   png: dinosaur
   tags:
    - animals
-   - random
    - science
 - title: heart
   png: heart
@@ -484,6 +483,189 @@ icons:
   png: turntable
   tags: 
   - music
+- title: toilet paper
+  png: toiletpaper
+  tags: 
+  - hygiene
+- title: compass
+  png: compass
+  tags: 
+  - tools
+- title: croissant
+  png: croissant
+  tags: 
+  - food
+- title: fire hydrant 
+  png: firehydrant
+  tags: 
+  - city
+- title: lighthouse 
+  png: lighthouse
+  tags: 
+  - building
+- title: mail box
+  png: mailbox
+  tags: 
+  - city
+- title: surveillance camera  
+  png: surveillance
+  tags: 
+  - city
+- title: toothbrush 
+  png: toothbrush
+  tags: 
+  - hygiene
+- title: viewmaster
+  png: viewmaster
+  tags: 
+  - random
+- title: suitcase with wheels
+  png: wheelsuitcase
+  tags: 
+  - travel
+- title: atom
+  png: atom
+  tags: 
+  - science
+- title: buggy
+  png: buggy
+  tags: 
+  - kids
+- title: cassette 
+  png: cassette
+  tags: 
+  - music
+- title: coffee pot 
+  png: coffeepot
+  tags: 
+  - food
+- title: regular coffee pot 
+  png: coffeepot2
+  tags: 
+  - food
+- title: leaf 
+  png: leaf
+  tags: 
+  - nature
+- title: milk
+  png: milk
+  tags: 
+  - food
+- title: sneaker 
+  png: sneaker
+  tags: 
+  - clothes
+- title: beer can
+  png: beercan
+  tags: 
+  - food
+- title: bin 
+  png: bin
+  tags: 
+  - 
+- title: cloud
+  png: cloud
+  tags: 
+  - nature
+- title: gas station
+  png: gasstation
+  tags: 
+  - travel
+  - energy
+- title: guitar
+  png: guitar
+  tags: 
+  - music
+- title: jerrican
+  png: jerrican
+  tags: 
+  - travel
+  - random
+  - energy
+- title: socks
+  png: socks
+  tags: 
+  - clothes
+  - random
+- title: synthetiser
+  png: synth
+  tags: 
+  - music
+- title: wine glass
+  png: wineglass
+  tags: 
+  - food
+- title: dna 
+  png: dna
+  tags: 
+  - science
+- title: floppy disk
+  png: floppydisk
+  tags: 
+  - random
+- title: knife
+  png: knife
+  tags: 
+  - food
+- title: knitting needles 
+  png: knittingneedles
+  tags: 
+  - clothes
+  - craft 
+- title: lightbulb
+  png: lightbulb
+  tags: 
+  - 
+- title: mobile phone
+  png: mobile
+  tags: 
+  - devices
+- title: robot head
+  png: robot
+  tags: 
+  - science
+- title: yarn
+  png: wool
+  tags: 
+  - craft
+- title: clamp
+  png: clamp
+  tags: 
+  - tools
+- title: nyan cat
+  png: nyan
+  tags: 
+  - random
+- title: pylon
+  png: pylon
+  tags: 
+  - city
+  - energy
+- title: remote control
+  png: remotecontrol
+  tags: 
+  - fablab
+- title: smart watch
+  png: smartwatch
+  tags: 
+  - devices
+- title: trojan horse
+  png: trojanhorse
+  tags: 
+  - random
+- title: typewriter
+  png: typewriter
+  tags: 
+  - devices
+  - random 
+- title: bones
+  png: bones
+  tags: 
+  - 
+- title: skull
+  png: skull
+  tags: 
+  - 
 
 
 
