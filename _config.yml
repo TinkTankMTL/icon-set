@@ -1,7 +1,7 @@
 # Site settings
 title: Iconothèque
 email: icons@tinktank.club
-description: "A library of beautiful, hand-crafted pictograms, for the cultural sector (and more). Oh, and they're free to use." 
+description: "A library of beautiful, hand-crafted pictograms. Oh, and they're free to use." 
 baseurl: "" # the subpath of your site, e.g. /blog/ http://icons.tinktank.club
 url: "http://icons.tinktank.club" # the base hostname & protocol for your site
 twitter_username: tinktankMTL

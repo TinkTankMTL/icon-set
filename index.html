@@ -4,16 +4,29 @@ layout: homepage
 
 <div class="home">
   <div class="row">
+
     <div class="col-md-12 center">
-      <h1>The icons of Museomix</h1>
-      <hr>
-      {% for icon in site.icons %}
-        {% if icon.tags contains 'museomix' %}
-          {% include icon-item.html %}
+      {% for page in site.pages offset:2 %}
+        {% if page.category == 'iconset' %}
+        {% assign counter=0 %}
+          <h1>{{ page.title }}</h1>
+          <hr>
+            {% assign sorted_icons = (site.icons | sort: 'title') %}
+            {% for icon in sorted_icons %}
+               {% if icon.tags contains page.tag %}
+                  {% if counter < 12 %}
+                    {% include icon-item.html %}
+                    {% assign counter=counter | plus:1 %}
+                  {% endif %}
+               {% endif %}
+            {% endfor %}
+          <div class="clearfix"></div>
+          <h3><a href="{{ page.url | prepend: site.baseurl }}" class="btn btn-theme">View set</a></h3>
         {% endif %}
       {% endfor %}
     </div>
-    <div class="clearfix"></div>
+
+
     <div class="col-md-12 center">
       <h1>Some more icons</h1>
       <hr>

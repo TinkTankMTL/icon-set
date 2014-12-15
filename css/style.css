@@ -158,6 +158,9 @@ a:visited {
 .open .dropdown-menu {
     background-color: #512473;
 }
+article a:visited {
+    color: #1756a9;
+}
 
 
 

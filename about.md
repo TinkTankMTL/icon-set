@@ -5,8 +5,16 @@ permalink: /about/
 category: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##{{site.description}}##
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The pictograms are fully open source under the GPL licence. You're welcome to use the icons for anything you want (commercial, personnal or open source projects). 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+>Attribution is not necessary but is much appriciated 'Pictograms by TinkTank.club'.
+
+###Why this project? 
+
+OK, there's the [Noun Project](http://thenounproject.com/) and there's [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/), but we believe there's a need for something right in between. On TNP, if you download two icons, there's little chance that they'll fit together. And on FA, the icons are limited to technological stuff. 
+
+###Who the hell is TinkTank? 
+
+[TinkTank](http://tinktank.club) is a company based in Montreal that runs accelaration workshops for collaborative projects. 
