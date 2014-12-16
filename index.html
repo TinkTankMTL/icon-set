@@ -14,12 +14,12 @@ layout: homepage
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="heading{{ forloop.index0 }}">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index0 }}" aria-expanded="{% if forloop.index0 == 3 %}true{% else %}false{% endif %}" aria-controls="collapse{{ forloop.index0 }}">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index0 }}" aria-expanded="{% if forloop.index0 == 4 %}true{% else %}false{% endif %}" aria-controls="collapse{{ forloop.index0 }}">
                 {{ page.title }}
               </a>
             </h4>
             </div>
-            <div id="collapse{{ forloop.index0 }}" class="panel-collapse collapse {% if forloop.index0 == 3 %}in{% endif %}" role="tabpanel" aria-labelledby="heading{{ forloop.index0 }}">
+            <div id="collapse{{ forloop.index0 }}" class="panel-collapse collapse {% if forloop.index0 == 4 %}in{% endif %}" role="tabpanel" aria-labelledby="heading{{ forloop.index0 }}">
               <div class="panel-body">
                 {% assign sorted_icons = (site.icons | sort: 'title') %}
                 {% for icon in sorted_icons %}
