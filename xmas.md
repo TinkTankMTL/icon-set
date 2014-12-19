@@ -1,7 +1,7 @@
 ---
 layout: iconset
 title: Xmas icons
-permalink: /tools/
+permalink: /xmas/
 category: iconset
 tag: xmas
 image: 
