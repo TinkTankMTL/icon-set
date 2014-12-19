@@ -465,6 +465,7 @@ icons:
   - random
   - robot
   - starwars
+  - retro
 - title: sewing machine
   png: sewingmachine
   tags: 
@@ -483,12 +484,13 @@ icons:
   png: turntable
   tags: 
   - music
+  - retro
 - title: toilet paper
   png: toiletpaper
   tags: 
   - hygiene
 - title: compass
-  png: compass
+  png: compass-36
   tags: 
   - tools
 - title: croissant
@@ -519,6 +521,7 @@ icons:
   png: viewmaster
   tags: 
   - random
+  - retro
 - title: suitcase with wheels
   png: wheelsuitcase
   tags: 
@@ -535,6 +538,7 @@ icons:
   png: cassette
   tags: 
   - music
+  - retro
 - title: coffee pot 
   png: coffeepot
   tags: 
@@ -603,6 +607,7 @@ icons:
   png: floppydisk
   tags: 
   - random
+  - retro
 - title: knife
   png: knife
   tags: 
@@ -658,6 +663,7 @@ icons:
   tags: 
   - devices
   - random 
+  - retro
 - title: bones
   png: bones
   tags: 
@@ -666,6 +672,762 @@ icons:
   png: skull
   tags: 
   - 
+- title: bike seat
+  png: bikeseat
+  tags:
+    - travel
+    - bike
+- title: caravan
+  png: caravan
+  tags:
+    - travel
+    - habitat
+- title: cutting board
+  png: cuttingboard
+  tags:
+    - food
+- title: gumball machine
+  png: gumball
+  tags:
+  - food
+  - retro
+- title: horse saddle
+  png: horsesaddle
+  tags: 
+- title: hot thermometer
+  png: thermometerhot
+  tags: 
+    - summer
+- title: tooth
+  png: tooth
+  tags:
+  - body
+- title: viking hat
+  png: vikinghat
+  tags:
+  - museum
+  - history
+- title: basket ball
+  png: basketball
+  tags:
+  - sport 
+- title: drum
+  png: drum
+  tags:
+  - music
+- title: give
+  png: give
+  tags:
+  - action
+- title: maracas
+  png: maracas
+  tags:
+  - music
+- title: medieval helmet
+  png: medievalhelmet
+  tags:
+  - museum
+  - history
+- title: post-it
+  png: postit
+  tags: 
+  - work
+- title: protect
+  png: protect
+  tags:
+  - action
+- title: shopping basket
+  png: shoppingbasket
+  tags:
+- title: snorkel
+  png: snorkel 
+  tags:
+  - summer
+  - sport
+- title: ambulance
+  png: ambulance
+  tags:
+  - travel
+  - emergency
+- title: axe
+  png: axe
+  tags:
+  - nature
+  - xmas
+- title: cherries
+  png: cherries
+  tags:
+  - food 
+  - nature
+- title: cowboy hat
+  png: cowboyhat
+  tags:
+  - clothes
+  - party
+- title: hot air balloon
+  png: hotairballoon
+  tags:
+  - travel
+- title: knight
+  png: knight
+  tags:
+  - playing
+  - game
+  - chess
+- title: piece of cake
+  png: pieceofcake
+  tags:
+  - food 
+  - xmas
+- title: pills
+  png: pills
+  tags:
+  - emergency
+  - xmas
+- title: teapot
+  png: teapot
+  tags:
+  - food
+- title: beehive
+  png: beehive
+  tags:
+  - food
+  - nature
+- title: coffee grinder
+  png: coffeegrinder
+  tags:
+  - food 
+- title: film
+  png: film
+  tags:
+  - devices
+  - retro
+- title: lunar module
+  png: lunarmodule
+  tags:
+  - science
+  - space
+- title: meteorit
+  png: meteorit
+  tags:
+  - space
+  - science
+- title: observatory
+  png: observatory
+  tags:
+  - science
+  - space
+- title: scale
+  png: scale
+  tags:
+  - food
+- title: solar system
+  png: solarsystem
+  tags:
+  - science
+  - space
+- title: sputnik
+  png: sputnik
+  tags:
+  - retro
+  - space
+  - science
+- title: tardis
+  png: tardis
+  tags:
+  - random 
+- title: apple
+  png: apple
+  tags:
+  - food
+  - nature
+- title: band aid
+  png: bandaid
+  tags:
+  - emergency
+- title: beet
+  png: beet
+  tags:
+  - nature 
+  - food
+- title: carrot
+  png: carrot
+  tags:
+  - food
+  - nature
+- title: clock
+  png: clock
+  tags:
+  - devices
+- title: face
+  png: face
+  tags:
+  - body
+- title: space shuttle
+  png: spaceshuttle
+  tags:
+  - space
+  - science
+- title: tree
+  png: tree
+  tags:
+  - nature
+- title: camper van
+  png: campervan
+  tags:
+  - travel
+  - nature
+- title: dagger
+  png: dagger
+  tags:
+  - museum
+  - nature
+- title: deckchair
+  png: deckchair
+  tags:
+  - summer
+- title: icecream cone
+  png: icecreamcone
+  tags: 
+  - summer
+  - food
+- title: kinect
+  png: kinect
+  tags:
+  - devices
+  - tools
+- title: kite
+  png: kite
+  tags:
+  - summer
+  - playing
+- title: projector screen
+  png: projectorscreen
+  tags:
+  - devices
+  - retro
+- title: stopwatch
+  png: stopwatch
+  tags:
+  - devices
+- title: watermelon
+  png: watermelon
+  tags:
+  - nature
+  - food
+- title: foodtruck
+  png: foodtruck
+  tags:
+  - food 
+  - city
+  - montreal
+- title: monitor
+  png: monitor
+  tags:
+  - devices
+- title: pigeon
+  png: pigeon
+  tags:
+  - nature
+  - city
+  - montreal
+- title: skateboard
+  png: skateboard
+  tags:
+  - travel
+  - playing
+- title: swimming suit
+  png: swimmingsuit
+  tags:
+  - summer
+  - clothes
+- title: tanktop
+  png: tanktop
+  tags:
+  - clothes
+  - summer
+- title: baby bottle
+  png: babybottle
+  tags:
+  - food
+  - baby
+- title: compass 
+  png: compass-96
+  tags:
+  - nature
+- title: large leaf
+  png: largeleaf
+  tags:
+  - nature
+- title: old video camera
+  png: oldvideocamera
+  tags:
+  - retro 
+  - devices
+- title: staple gun
+  png: staplegun
+  tags:
+  - tools
+  - work
+- title: super 8
+  png: super8
+  tags:
+  - devices
+  - retro
+- title: video camera 
+  png: videocamera
+  tags:
+  - devices
+- title: well
+  png: well
+  tags:
+  - water
+- title: binoculars
+  png: binoculars
+  tags:
+  - nature
+- title: jeep
+  png: jeep
+  tags:
+  - nature
+  - travel
+- title: kayak
+  png: kayak
+  tags: 
+  - summer
+  - sport
+  - nature
+- title: keyboard
+  png: keyboard
+  tags:
+  - devices
+- title: mountains
+  png: mountains
+  tags:
+  - nature
+- title: paint bucket
+  png: paintbucket
+  tags:
+  - tools
+- title: safety pin
+  png: safetypin 
+  tags:
+  - tools
+- title: ship
+  png: shipfront
+  tags:
+  - travel
+- title: spray can
+  png: spraycan
+  tags:
+  - tools
+- title: ball pen
+  png: ballpen
+  tags:
+  - tools 
+  - work
+- title: bath
+  png: bath
+  tags:
+  - home
+- title: blank notepad
+  png: blanknotepad
+  tags:
+  - tools
+- title: elevator
+  png: elevator
+  tags:
+  - museum
+- title: fridge
+  png: fridge
+  tags:
+  - home
+  - food
+  - kitchen
+- title: harddrive
+  png: harddrive
+  tags:
+  - devices
+- title: notepad
+  png: notepad
+  tags:
+  - tools
+  - work
+- title: oven
+  png: oven
+  tags:
+  - food
+  - home
+  - kitchen
+- title: soap dispenser
+  png: soapdispenser
+  tags:
+  - home
+- title: stylus
+  png: stylus
+  tags:
+  - devices
+  - tools
+- title: beer
+  png: beer
+  tags:
+  - food
+  - party
+- title: bus
+  png: busfront
+  tags:
+  - travel
+  - city
+- title: car
+  png: carfront
+  tags:
+  - travel
+  - city
+- title: phone
+  png: companyphone
+  tags:
+  - retro 
+  - work
+- title: mask
+  png: mask
+  tags:
+  - party
+- title: projector
+  png: projector
+  tags:
+  - devices
+  - work
+- title: taxi
+  png: taxifront
+  tags:
+  - travel 
+  - city
+- title: truck
+  png: truckfront
+  tags:
+  - travel
+  - city
+- title: train
+  png: trainfront
+  tags:
+  - travel
+  - city
+- title: boomarang
+  png: boomarang
+  tags:
+  - playing
+  - nature
+- title: comb
+  png: comb
+  tags:
+  - home
+- title: corkscrew
+  png: corkscrew
+  tags:
+  - xmas
+  - party
+- title: door handle
+  png: doorhandle
+  tags:
+  - home
+- title: electric guitar
+  png: electricguitar
+  tags:
+  - music
+- title: eye dropper
+  png: eyedropper
+  tags:
+  - science
+- title: forklift
+  png: forklift
+  tags:
+  - travel
+- title: ladder
+  png: ladder
+  tags:
+  - tools
+- title: t-bone
+  png: tbone
+  tags:
+  - food
+- title: vacuum cleaner
+  png: vacuum
+  tags:
+  - home
+- title: blender
+  png: blender
+  tags:
+  - kitchen
+  - home
+  - food
+- title: boots 
+  png: boots
+  tags:
+  - xmas
+  - nature
+  - clothes
+- title: wine bottle
+  png: bottle
+  tags:
+  - party
+  - xmas
+  - food
+- title: bread
+  png: bread
+  tags:
+  - food 
+- title: burger
+  png: burger
+  tags:
+  - food
+  - montreal
+- title: eames chair
+  png: eames
+  tags:
+  - home
+- title: roller blades
+  png: rollers
+  tags:
+  - travel
+  - playing
+- title: soda
+  png: soda
+  tags:
+  - food
+- title: butcher knife
+  png: butcherknife
+  tags:
+  - food
+  - kitchen
+- title: balloon
+  png: balloon
+  tags:
+  - party
+  - xmas
+- title: champagne
+  png: champagne
+  tags:
+  - food
+  - xmas
+  - party
+- title: cookie
+  png: cookie
+  tags:
+  - food
+  - xmas
+- title: elf
+  png: elf
+  tags:
+  - xmas
+- title: fir
+  png: fir
+  tags:
+  - nature
+  - xmas
+- title: party whistle
+  png: partywhistle
+  tags:
+  - party
+  - xmas
+- title: santa
+  png: santa
+  tags:
+  - xmas
+- title: scarf
+  png: scarf
+  tags:
+  - nature
+  - xmas
+- title: acorn
+  png: acorn
+  tags:
+  - food
+  - nature
+  - xmas
+- title: fireplace
+  png: fireplace
+  tags:
+  - xmas
+  - home
+- title: hot tea  
+  png: hottea
+  tags:
+  - xmas
+  - food
+  - home
+  - kitchen
+  - work
+- title: knot 
+  png: knot
+  tags:
+  - xmas
+- title: lodge
+  png: lodge
+  tags:
+  - xmas
+  - habitat
+- title: skidoo
+  png: skidoo
+  tags:
+  - xmas
+  - nature
+- title: snowcat
+  png: snowcat
+  tags:
+  - xmas
+  - city
+- title: snowman
+  png: snowman
+  tags:
+  - xmas
+- title: cold thermometer
+  png: thermometercold
+  tags:
+  - xmas
+- title: bells
+  png: bells
+  tags: 
+  - xmas
+- title: candy cane
+  png: candycane
+  tags: 
+  - xmas
+- title: holly
+  png: holly
+  tags: 
+  - nature
+  - xmas
+- title: igloo
+  png: igloo
+  tags: 
+  - xmas
+  - nature
+  - habitat
+- title: lantern
+  png: lantern
+  tags: 
+  - xmas 
+  - nature
+- title: log
+  png: log
+  tags: 
+  - nature
+  - xmas
+- title: snow shoes
+  png: snowshoes
+  tags: 
+  - nature
+  - xmas
+  - travel
+  - montreal
+- title: stocking
+  png: stocking
+  tags: 
+  - xmas
+- title: wooly hat
+  png: woolyhat
+  tags: 
+  - xmas
+  - clothes
+- title: bear skin
+  png: bearskin
+  tags: 
+  - xmas
+  - home
+- title: ice skates
+  png: iceskates
+  tags: 
+  - xmas
+  - playing 
+  - montreal
+  - sport
+- title: rein deer
+  png: reindeer
+  tags: 
+  - animals
+  - xmas
+  - nature
+- title: ski boots
+  png: skiboots
+  tags: 
+  - sport
+  - xmas
+- title: ski goggles
+  png: skigoggles
+  tags: 
+  - sport
+  - clothes
+  - xmas
+- title: snowflake
+  png: snowflake
+  tags: 
+  - nature
+  - xmas
+- title: sweater
+  png: sweater
+  tags: 
+  - xmas
+  - clothes
+- title: turkey
+  png: turkey
+  tags: 
+  - xmas
+  - food
+  - kitchen
+- title: wreath
+  png: wreath
+  tags: 
+  - xmas
+- title: crackers
+  png: crackers
+  tags: 
+  - xmas
+- title: gingerbread man
+  png: gingerman
+  tags: 
+  - xmas
+  - food
+- title: glove
+  png: glove
+  tags: 
+  - xmas
+  - clothes
+- title: gloves
+  png: gloves
+  tags: 
+  - xmas
+  - clothes
+- title: nutcracker
+  png: nutcracker
+  tags: 
+  - xmas
+- title: ornament
+  png: ornament
+  tags: 
+  - xmas
+- title: present
+  png: present
+  tags: 
+  - xmas
+- title: skis
+  png: skis
+  tags: 
+  - sport
+  - xmas
+- title: sledge
+  png: sledge
+  tags: 
+  - sport
+  - xmas
+- title: cable car
+  png: telepheric
+  tags: 
+  - travel
+  - xmas
+- title: xmas tree
+  png: xmastree
+  tags: 
+  - xmas
 
 
 
